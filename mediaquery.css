@@ -164,7 +164,8 @@
 
 @media (max-width: 600px) {
     .inicio {
-        height: 70vh;
+        height: 80vh;
+        padding: 2em;
     }
 
     .inicio img {
@@ -189,8 +190,17 @@
         height: 35px;
     }
 
+    .calendario .imagem {
+        width: 350px;
+        height: 350px;
+    }
+
     #reverso {
         width: 100%;
+    }
+
+    iframe {
+        width: 350px;
     }
 
     .localizacao h2 {
