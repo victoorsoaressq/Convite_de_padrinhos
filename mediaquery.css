@@ -195,6 +195,11 @@
         height: 350px;
     }
 
+    .calendario .imagem img {
+        width: 300px;
+        height: 300px;
+    }
+
     #reverso {
         width: 100%;
     }
